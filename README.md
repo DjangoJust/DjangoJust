@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Django Just
+- 👀 I’m interested in Machine Learning and Artificial Intelligence
+- 💻 I’m currently learning Python as a beginner!
+- 👻 I’m looking to collaborate on anything that I can, and learn from whoever I can
+- 📫 Reach me at my email: djangojust08@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: This is my first GitHub account!
